@@ -1,6 +1,7 @@
 // variables & functions
 @import 'functions';
 @import 'variables';
+
 // base & layout
 @import 'base';
 @import 'breakpoints';
@@ -12,4 +13,6 @@
 @import "components/card";
 @import "components/button";
 @import "components/navbar";
+
 // utilities (margin, padding, opacity, etc)
+@import "utilities";
